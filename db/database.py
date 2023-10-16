@@ -1,7 +1,7 @@
 from deta import Deta
 from os import getenv
 
-deta = Deta(c0tomzuvrjt_prytvUL35Nokc5U38mwtXSf9QFArhuKh)
+deta = Deta("c0tomzuvrjt_prytvUL35Nokc5U38mwtXSf9QFArhuKh")
 
 
 def client_db():
